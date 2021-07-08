@@ -1,0 +1,21 @@
+chapter: 1
+title: Capítulo 1
+character: personagem3
+conditions:
+    - personagem1=*
+    - personagem2=*
+    - personagem3=*
+outcomes:
+    - action: p3c1a1
+      text: a1
+      chapter: 2
+    - action: p3c1a2
+      text: a2
+      chapter: 2
+    - action: p3c1a3
+      text: a3
+      chapter: 2
+
+##########
+
+bla

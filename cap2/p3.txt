@@ -1,0 +1,14 @@
+chapter: 2
+title: Capítulo 2
+character: personagem3
+conditions:
+    - personagem1=p1c1a1
+    - personagem2=p2c1a2
+    - personagem3=*
+outcomes:
+    - action: continue
+      chapter: 3
+
+##########
+
+bla
