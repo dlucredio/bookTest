@@ -1,0 +1,12 @@
+title: Título do livro aqui
+author: Autor do Livro da Silva
+characters:
+    - id: personagem1
+      name: Nome do personagem 1
+      description: Descrição do personagem 1
+    - id: personagem2
+      name: Nome do personagem 2
+      description: Descrição do personagem 2
+    - id: personagem3
+      name: Nome do personagem 3
+      description: Descrição do personagem 3
